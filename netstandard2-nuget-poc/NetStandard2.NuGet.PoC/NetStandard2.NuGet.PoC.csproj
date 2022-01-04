@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+      
+    <!-- Doc: https://docs.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-the-dotnet-cli -->
+
+    <PackageId>NetStandard2.NuGet.PoC</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Leandro Femia</Authors>
+    <Company>Leandro Femia</Company>
+
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
